@@ -1,0 +1,17 @@
+ /*body {
+ background-color: black;
+color: aquamarine;
+align-items:center;
+
+};
+*/
+div{
+  border: 2px solid rgb(66, 66, 67);
+    font-family: cursive;
+    font-weight: bolder;
+    border-radius: 9px;
+    padding: 2px;
+    margin: 10px;
+}
+
+
